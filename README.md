@@ -8,7 +8,7 @@
 👋 ¡Hola! Soy **Manuel Martinez**, estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con pasión por la programación, la ciberseguridad y el desarrollo de software.  
 Me encanta aprender nuevas tecnologías y aplicarlas en proyectos reales.  
 
-[![GitHub Follow](https://img.shields.io/github/followers/manuump?style=social)](https://github.com/manuujaen00)
+[![GitHub Follow](https://img.shields.io/github/followers/manuump?style=social)](https://github.com/manuump)
 
 ---
 
