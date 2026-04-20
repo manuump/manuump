@@ -1,6 +1,6 @@
 # 💻 Manuel Martinez  
 
-🎓 **Estudiante de DAM** | 📝 **Desarrollador en formación** | 🚀 **Apasionado por la tecnología**  
+🎓 **Graduado de DAM** | 📝 **Desarrollador Fullstack** | 🚀 **Apasionado por la tecnología**  
 
 ---
 
